@@ -1,0 +1,16 @@
+E:\Btech\Tatvasoft\Day 3\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.deps.json
+E:\Btech\Tatvasoft\Day 3\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.dll
+E:\Btech\Tatvasoft\Day 3\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Repositories.pdb
+E:\Btech\Tatvasoft\Day 3\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.dll
+E:\Btech\Tatvasoft\Day 3\Mission\Mission.Repositories\bin\Debug\net8.0\Mission.Entities.pdb
+E:\Btech\Tatvasoft\Day 3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.AssemblyReference.cache
+E:\Btech\Tatvasoft\Day 3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+E:\Btech\Tatvasoft\Day 3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfoInputs.cache
+E:\Btech\Tatvasoft\Day 3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.AssemblyInfo.cs
+E:\Btech\Tatvasoft\Day 3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.csproj.CoreCompileInputs.cache
+E:\Btech\Tatvasoft\Day 3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.sourcelink.json
+E:\Btech\Tatvasoft\Day 3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission..7EFB1ED9.Up2Date
+E:\Btech\Tatvasoft\Day 3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.dll
+E:\Btech\Tatvasoft\Day 3\Mission\Mission.Repositories\obj\Debug\net8.0\refint\Mission.Repositories.dll
+E:\Btech\Tatvasoft\Day 3\Mission\Mission.Repositories\obj\Debug\net8.0\Mission.Repositories.pdb
+E:\Btech\Tatvasoft\Day 3\Mission\Mission.Repositories\obj\Debug\net8.0\ref\Mission.Repositories.dll
