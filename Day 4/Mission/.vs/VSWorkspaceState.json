@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Mission.Entities",
+    "\\Mission.Entities\\Migrations",
+    "\\Mission.Entities\\Models",
+    "\\Mission.Entities\\obj",
+    "\\Mission.Entities\\obj\\Release",
+    "\\Mission.Entities\\obj\\Release\\net8.0",
+    "\\Mission.Entities\\ViewModels",
+    "\\Mission.Services",
+    "\\Mission.Services\\Service"
+  ],
+  "SelectedNode": "\\Mission.Services\\Service\\JwtService.cs",
+  "PreviewInSolutionExplorer": false
+}
